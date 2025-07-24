@@ -1,4 +1,4 @@
-package com.teleport.logistics.tracking_number_generator;
+package com.teleport.logistics.tracking;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

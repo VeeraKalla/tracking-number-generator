@@ -1,4 +1,4 @@
-package com.teleport.logistics.tracking_number_generator;
+package com.teleport.logistics.tracking;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
